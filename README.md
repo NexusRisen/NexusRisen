@@ -54,7 +54,7 @@ I remain committed to expanding the possibilities of gaming automation while nur
 ## Connect With Me
 
 - **GitHub:** [NexusRisen](https://github.com/NexusRisen)
-- **Discord:** Pokémon Legends Server
+- **Discord:** [Pokémon Legends Server](http://discord.gg/pokemonlegends)
 - **Organization:** GenPKM | SysBots Network
 
 ---
