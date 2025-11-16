@@ -1,6 +1,6 @@
 <div align="center">
 
-  # NexusRisen
+  # Nexus Risen
   
 ### Nex | Founder of GenPKM
 
