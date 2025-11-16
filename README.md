@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Dev | Founder of GenPKM
+### Nex | Founder of GenPKM
 
 *Empowering servers, one SysBot at a time.*
 
