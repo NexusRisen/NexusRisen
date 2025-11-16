@@ -1,7 +1,6 @@
-# NexusRisen
-
 <div align="center">
-
+# NexusRisen
+  
 ### Nex | Founder of GenPKM
 
 *Empowering servers, one SysBot at a time.*
