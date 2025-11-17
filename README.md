@@ -67,8 +67,6 @@ I remain committed to expanding the possibilities of gaming automation while nur
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexusRisen&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NexusRisen&color=blueviolet&style=flat-square&label=Profile+Views)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NexusRisen&theme=radical)
 
 </div>
@@ -78,5 +76,7 @@ I remain committed to expanding the possibilities of gaming automation while nur
 <div align="center">
 
 *Building the future of accessible gaming automation*
+
+![Profile Views](https://komarev.com/ghpvc/?username=NexusRisen&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
