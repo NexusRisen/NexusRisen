@@ -55,7 +55,23 @@ I remain committed to expanding the possibilities of gaming automation while nur
 
 - **GitHub:** [NexusRisen](https://github.com/NexusRisen)
 - **Discord:** [Pokémon Legends Server](http://discord.gg/pokemonlegends)
-- **Organization:** GenPKM | SysBots Network
+- **Organization:** [GenPKM](https://genpkm.com) | [SysBots Network](https://sysbots.net)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NexusRisen&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexusRisen&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=NexusRisen&color=blueviolet&style=flat-square&label=Profile+Views)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NexusRisen&theme=radical)
+
+</div>
 
 ---
 
