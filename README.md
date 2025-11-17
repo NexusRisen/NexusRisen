@@ -67,8 +67,6 @@ I remain committed to expanding the possibilities of gaming automation while nur
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexusRisen&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NexusRisen&theme=radical)
-
 </div>
 
 ---
