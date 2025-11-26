@@ -63,8 +63,6 @@ I remain committed to expanding the possibilities of gaming automation while nur
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NexusRisen&show_icons=true&theme=radical&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexusRisen&layout=compact&theme=radical)
 
 </div>
