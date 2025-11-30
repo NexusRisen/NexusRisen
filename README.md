@@ -63,7 +63,38 @@ I remain committed to expanding the possibilities of gaming automation while nur
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexusRisen&layout=compact&theme=radical)
+<!-- Self-hosted GitHub Stats -->
+<a href="https://github.com/NexusRisen">
+  <img src="https://nexusrisen.net/stats/github-stats.svg" alt="GitHub Stats" />
+</a>
+
+<br/><br/>
+
+<!-- Self-hosted Streak Stats -->
+<a href="https://github.com/NexusRisen">
+  <img src="https://nexusrisen.net/stats/streak.svg" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<!-- Self-hosted Top Languages -->
+<a href="https://github.com/NexusRisen">
+  <img src="https://nexusrisen.net/stats/languages.svg" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<!-- Self-hosted Activity Graph -->
+<a href="https://github.com/NexusRisen">
+  <img src="https://nexusrisen.net/stats/activity.svg" alt="Contribution Activity" />
+</a>
+
+<br/><br/>
+
+<!-- Self-hosted Trophies -->
+<a href="https://github.com/NexusRisen">
+  <img src="https://nexusrisen.net/stats/trophies.svg" alt="Achievements" />
+</a>
 
 </div>
 
@@ -73,6 +104,6 @@ I remain committed to expanding the possibilities of gaming automation while nur
 
 *Building the future of accessible gaming automation*
 
-![Profile Views](https://komarev.com/ghpvc/?username=NexusRisen&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=NexusRisen&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
