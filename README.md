@@ -19,7 +19,7 @@
 ## ⚡ About Me
 
 <div align="center">
-<img alt="Mario Coding" width="350" src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif">
+<img alt="Mario Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
 
 <br>
