@@ -28,7 +28,7 @@
 
 ```yaml
 Name: Nex
-Role: Founder & Lead Developer
+Role: Founder & Developer
 Organizations: [ GenPKM, SysBots Network, Pokémon Legends ]
 Experience: 6+ years
 Mission: Democratizing gaming automation
