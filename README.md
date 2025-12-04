@@ -16,28 +16,45 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
 ## ⚡ About Me
+
+<div align="center">
+<img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
+
+<br>
+
+<div align="center">
 
 ```yaml
 name: Nex
 role: Founder & Lead Developer
-organizations:
-  - GenPKM
-  - SysBots Network
-  - Pokémon Legends Community
+organizations: [ GenPKM, SysBots Network, Pokémon Legends ]
 experience: 6+ years
 mission: Democratizing gaming automation
 ```
 
-- 🎮 **Building** accessible Pokémon automation tools
-- 🌐 **Leading** one of the largest free SysBot communities
-- 🛠️ **Developing** next-gen control systems for automation
-- 🤝 **Empowering** thousands of players worldwide
-- 🚀 **Innovating** with modern web technologies
+</div>
 
-<br clear="right"/>
+<br>
+
+<table align="center">
+<tr>
+<td>🎮</td><td><b>Building</b> accessible Pokémon automation tools</td>
+</tr>
+<tr>
+<td>🌐</td><td><b>Leading</b> one of the largest free SysBot communities</td>
+</tr>
+<tr>
+<td>🛠️</td><td><b>Developing</b> next-gen control systems for automation</td>
+</tr>
+<tr>
+<td>🤝</td><td><b>Empowering</b> thousands of players worldwide</td>
+</tr>
+<tr>
+<td>🚀</td><td><b>Innovating</b> with modern web technologies</td>
+</tr>
+</table>
 
 ---
 
