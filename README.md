@@ -27,11 +27,11 @@
 <div align="center">
 
 ```yaml
-name: Nex
-role: Founder & Lead Developer
-organizations: [ GenPKM, SysBots Network, Pokémon Legends ]
-experience: 6+ years
-mission: Democratizing gaming automation
+Name: Nex
+Role: Founder & Lead Developer
+Organizations: [ GenPKM, SysBots Network, Pokémon Legends ]
+Experience: 6+ years
+Mission: Democratizing gaming automation
 ```
 
 </div>
