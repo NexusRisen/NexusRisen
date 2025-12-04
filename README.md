@@ -131,7 +131,7 @@ mission: Democratizing gaming automation
 
 <div align="center">
 
-[![Discord](https://img.shields.io/discord/Pokemon_Legends?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/pokemonlegends)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/pokemonlegends)
 [![Website](https://img.shields.io/badge/sysbots.net-online-FF6B6B)](https://sysbots.net)
 
 </div>
