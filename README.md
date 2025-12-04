@@ -92,8 +92,8 @@ mission: Democratizing gaming automation
 <a href="https://github.com/NexusRisen/PokeBot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=PokeBot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="PokeBot">
 </a>
-<a href="https://github.com/NexusRisen/Freemons">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=Freemons&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="Freemons">
+<a href="https://github.com/NexusRisen/SysBot.Remote">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=SysBot.Remote&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="SysBot.Remote">
 </a>
 
 </div>
