@@ -134,21 +134,32 @@ mission: Democratizing gaming automation
 <div align="center">
 
 <a href="https://github.com/NexusRisen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NexusRisen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&ring_color=8B5CF6" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusRisen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Languages">
+  <img src="https://nexusrisen.net/stats/github-stats.svg" alt="GitHub Stats">
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NexusRisen&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="GitHub Streak">
+<a href="https://github.com/NexusRisen">
+  <img src="https://nexusrisen.net/stats/streak.svg" alt="GitHub Streak">
+</a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexusRisen&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=FF6B6B&area=true&area_color=8B5CF6&hide_border=true" alt="Activity Graph" width="100%">
+<a href="https://github.com/NexusRisen">
+  <img src="https://nexusrisen.net/stats/languages.svg" alt="Top Languages">
+</a>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=NexusRisen&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" width="100%">
+<a href="https://github.com/NexusRisen">
+  <img src="https://nexusrisen.net/stats/activity.svg" alt="Activity Graph" width="100%">
+</a>
+
+<br><br>
+
+<a href="https://github.com/NexusRisen">
+  <img src="https://nexusrisen.net/stats/trophies.svg" alt="Trophies" width="100%">
+</a>
 
 </div>
 
