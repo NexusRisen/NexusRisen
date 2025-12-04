@@ -1,99 +1,176 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=200&section=header&text=NexusRisen&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Founder%20of%20GenPKM%20%7C%20SysBots%20Network&descAlignY=55&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=200&section=header&text=NexusRisen&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Founder%20of%20GenPKM%20%7C%20SysBots%20Network&descAlignY=55&descSize=18">
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=200&section=header&text=NexusRisen&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Founder%20of%20GenPKM%20%7C%20SysBots%20Network&descAlignY=55&descSize=18" width="100%">
+</picture>
+
 <div align="center">
 
-  # Nexus Risen
-  
-### Nex | Founder of GenPKM
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Empowering+servers%2C+one+SysBot+at+a+time.;6%2B+Years+of+Pok%C3%A9mon+Automation+Excellence;Building+the+Future+of+Gaming+Automation)](https://github.com/NexusRisen)
 
-*Empowering servers, one SysBot at a time.*
+<a href="https://discord.gg/pokemonlegends"><img src="https://img.shields.io/badge/Discord-Pokémon_Legends-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://genpkm.com"><img src="https://img.shields.io/badge/GenPKM-Website-8B5CF6?style=for-the-badge&logo=pokemon&logoColor=white" alt="GenPKM"></a>
+<a href="https://sysbots.net"><img src="https://img.shields.io/badge/SysBots-Network-FF6B6B?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="SysBots Network"></a>
 
 </div>
 
 ---
 
-## Professional Background
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-As the founder of the **SysBots Network**, I bring over six years of specialized experience in developing automated Pokémon management systems. My technical expertise has enabled me to create solutions that enhance the gaming experience for Pokémon enthusiasts worldwide.
+## ⚡ About Me
 
-Through continuous innovation and dedication, I've transformed complex automation processes into accessible tools that serve thousands of users across various gaming communities.
+```yaml
+name: Nex
+role: Founder & Lead Developer
+organizations:
+  - GenPKM
+  - SysBots Network
+  - Pokémon Legends Community
+experience: 6+ years
+mission: Democratizing gaming automation
+```
 
----
+- 🎮 **Building** accessible Pokémon automation tools
+- 🌐 **Leading** one of the largest free SysBot communities
+- 🛠️ **Developing** next-gen control systems for automation
+- 🤝 **Empowering** thousands of players worldwide
+- 🚀 **Innovating** with modern web technologies
 
-## Community Leadership
-
-I established the **Pokémon Legends Discord server** with the vision of building an inclusive space where gamers can access free automated tools to enhance their gameplay. Under my direction, our community has become a recognized resource in the Pokémon gaming ecosystem.
-
-**Key Achievements:**
-- Built a thriving Discord community centered around Pokémon automation
-- Provided free SysBot services to thousands of players
-- Created an inclusive environment welcoming gamers of all skill levels
-- Established trust and reliability within the Pokémon gaming community
-
----
-
-## Technical Innovation
-
-My work focuses on developing accessible technology that removes barriers to advanced gaming features. By providing free SysBots to Discord communities, I've helped democratize tools that were previously available only to those with technical knowledge.
-
-**Core Focus Areas:**
-- Automated Pokémon management systems
-- Discord bot integration and deployment
-- User-friendly interfaces for complex automation
-- Scalable solutions for community-wide access
-- Continuous improvement based on user feedback
+<br clear="right"/>
 
 ---
 
-## Mission Statement
-
-> **"Empowering servers, one SysBot at a time."**
-
-I remain committed to expanding the possibilities of gaming automation while nurturing a supportive community that benefits players at all skill levels. My vision is to continue breaking down technical barriers, ensuring that every player—regardless of their technical expertise—can enjoy enhanced gaming experiences.
-
----
-
-## Connect With Me
-
-- **GitHub:** [NexusRisen](https://github.com/NexusRisen)
-- **Discord:** [Pokémon Legends Server](http://discord.gg/pokemonlegends)
-- **Organization:** [GenPKM](https://genpkm.com) | [SysBots Network](https://sysbots.net)
-
----
-
-## GitHub Statistics
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<!-- Self-hosted GitHub Stats -->
-<a href="https://github.com/NexusRisen">
-  <img src="https://nexusrisen.net/stats/github-stats.svg" alt="GitHub Stats" />
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### Platforms & Tools
+![Discord](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/NexusRisen/PokeBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=PokeBot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="PokeBot">
+</a>
+<a href="https://github.com/NexusRisen/Freemons">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=Freemons&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="Freemons">
 </a>
 
-<br/><br/>
+</div>
 
-<!-- Self-hosted Streak Stats -->
+<br>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🤖 PokeBot
+> Advanced SysBot.NET with revolutionary control panel
+- 🎛️ Web-based control panel at `localhost:8080`
+- 📱 Remote switch control from any device
+- 🔄 One-click automatic updates
+- 🎮 Multi-bot real-time management
+- 📺 Discord, Twitch & YouTube integration
+
+</td>
+<td width="50%">
+
+### 🌐 SysBots Network
+> Free automation for the community
+- ⚡ 24/7 uptime SysBot services
+- 🆓 Completely free for all users
+- 👥 Serving thousands of trainers
+- 🔧 Continuous feature updates
+- 💬 Active community support
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
 <a href="https://github.com/NexusRisen">
-  <img src="https://nexusrisen.net/stats/streak.svg" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NexusRisen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&ring_color=8B5CF6" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusRisen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Languages">
 </a>
 
-<br/><br/>
+<br><br>
 
-<!-- Self-hosted Top Languages -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NexusRisen&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="GitHub Streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexusRisen&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=FF6B6B&area=true&area_color=8B5CF6&hide_border=true" alt="Activity Graph" width="100%">
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=NexusRisen&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" width="100%">
+
+</div>
+
+---
+
+## 🌟 Community Impact
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🎮  Thousands of players served through free SysBot access     ║
+║   🌐  Multiple thriving Discord communities established          ║
+║   🛠️  Open-source tools empowering developers worldwide          ║
+║   💡  Breaking down barriers to gaming automation                ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🔗 Connect & Collaborate
+
+<div align="center">
+
 <a href="https://github.com/NexusRisen">
-  <img src="https://nexusrisen.net/stats/languages.svg" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub-NexusRisen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-
-<br/><br/>
-
-<!-- Self-hosted Activity Graph -->
-<a href="https://github.com/NexusRisen">
-  <img src="https://nexusrisen.net/stats/activity.svg" alt="Contribution Activity" />
+<a href="https://discord.gg/pokemonlegends">
+  <img src="https://img.shields.io/badge/Discord-Pokémon_Legends-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-
-<br/><br/>
-
-<!-- Self-hosted Trophies -->
-<a href="https://github.com/NexusRisen">
-  <img src="https://nexusrisen.net/stats/trophies.svg" alt="Achievements" />
+<a href="https://genpkm.com">
+  <img src="https://img.shields.io/badge/Website-GenPKM-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="GenPKM">
+</a>
+<a href="https://sysbots.net">
+  <img src="https://img.shields.io/badge/Website-SysBots.net-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="SysBots">
 </a>
 
 </div>
@@ -102,8 +179,18 @@ I remain committed to expanding the possibilities of gaming automation while nur
 
 <div align="center">
 
-*Building the future of accessible gaming automation*
+### 💭 Philosophy
+
+*"Technology should empower everyone. By providing free, accessible automation tools,<br>we ensure that every trainer—regardless of technical expertise—can enjoy enhanced gaming experiences."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer" width="100%">
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NexusRisen&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+
+<sub>⚡ Powered by passion for the Pokémon community ⚡</sub>
 
 </div>
