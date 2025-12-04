@@ -90,10 +90,11 @@ mission: Democratizing gaming automation
 <div align="center">
 
 <a href="https://github.com/NexusRisen/PokeBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=PokeBot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="PokeBot">
+  <img src="https://img.shields.io/badge/🤖_PokeBot-Advanced_SysBot.NET-8B5CF6?style=for-the-badge&labelColor=0d1117" alt="PokeBot">
 </a>
-<a href="https://github.com/NexusRisen/SysBot.Remote">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=SysBot.Remote&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="SysBot.Remote">
+&nbsp;&nbsp;
+<a href="https://sysbots.net">
+  <img src="https://img.shields.io/badge/🌐_SysBots_Network-Free_Automation-FF6B6B?style=for-the-badge&labelColor=0d1117" alt="SysBots Network">
 </a>
 
 </div>
@@ -104,6 +105,13 @@ mission: Democratizing gaming automation
 <tr>
 <td width="50%">
 
+<div align="center">
+
+[![PokeBot](https://img.shields.io/github/stars/NexusRisen/PokeBot?style=social)](https://github.com/NexusRisen/PokeBot)
+[![Downloads](https://img.shields.io/github/downloads/NexusRisen/PokeBot/total?color=8B5CF6)](https://github.com/NexusRisen/PokeBot/releases)
+
+</div>
+
 ### 🤖 PokeBot
 > Advanced SysBot.NET with revolutionary control panel
 - 🎛️ Web-based control panel at `localhost:8080`
@@ -112,8 +120,21 @@ mission: Democratizing gaming automation
 - 🎮 Multi-bot real-time management
 - 📺 Discord, Twitch & YouTube integration
 
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Project-→-8B5CF6?style=flat-square)](https://github.com/NexusRisen/PokeBot)
+
+</div>
+
 </td>
 <td width="50%">
+
+<div align="center">
+
+[![Discord](https://img.shields.io/discord/Pokemon_Legends?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/pokemonlegends)
+[![Website](https://img.shields.io/badge/sysbots.net-online-FF6B6B)](https://sysbots.net)
+
+</div>
 
 ### 🌐 SysBots Network
 > Free automation for the community
@@ -122,6 +143,12 @@ mission: Democratizing gaming automation
 - 👥 Serving thousands of trainers
 - 🔧 Continuous feature updates
 - 💬 Active community support
+
+<div align="center">
+
+[![Visit Site](https://img.shields.io/badge/Visit_Site-→-FF6B6B?style=flat-square)](https://sysbots.net)
+
+</div>
 
 </td>
 </tr>
