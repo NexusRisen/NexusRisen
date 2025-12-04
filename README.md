@@ -19,9 +19,7 @@
 ## ⚡ About Me
 
 <div align="center">
-<picture>
-  <img alt="Coding" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer.gif">
-</picture>
+<img alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 <br>
