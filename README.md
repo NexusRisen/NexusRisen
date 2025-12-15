@@ -1,418 +1,372 @@
 <div align="center">
 
-<!-- ULTRA MODERN ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:06B6D4,100:10B981&height=300&section=header&text=NEXUSRISEN&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ARCHITECT%20OF%20DIGITAL%20REALMS&descAlignY=55&descSize=20&stroke=8B5CF6&strokeWidth=2" width="100%"/>
-
-<!-- DYNAMIC TYPING ANIMATION -->
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=40&lines=%E2%9A%A1+FOUNDER+%7C+GENPKM+%E2%80%A2+SYSBOTS+NETWORK+%E2%80%A2+LEGENDS+TO+MYTHICALS+%E2%9A%A1)](https://github.com/NexusRisen)
+<!-- GLITCH HEADER -->
+<a href="https://github.com/NexusRisen">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=1&section=header" width="100%"/>
+</a>
 
 <br>
 
-<!-- GLASSMORPHIC SOCIAL BADGES -->
-<a href="https://discord.gg/SfEPfqRSA2">
-  <img src="https://img.shields.io/badge/%E2%9C%A8_LEGENDS_TO_MYTHICALS-JOIN_NOW-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord"/>
-</a>
-&nbsp;
-<a href="https://genpkm.com">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AE_GENPKM-EXPLORE-8B5CF6?style=for-the-badge&logo=pokemon&logoColor=white&labelColor=0d1117" alt="GenPKM"/>
-</a>
-&nbsp;
-<a href="https://sysbots.net">
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_SYSBOTS-NETWORK-06B6D4?style=for-the-badge&logo=nintendo-switch&logoColor=white&labelColor=0d1117" alt="SysBots"/>
-</a>
+```
+
+    ███╗   ██╗███████╗██╗  ██╗██╗   ██╗███████╗
+    ████╗  ██║██╔════╝╚██╗██╔╝██║   ██║██╔════╝
+    ██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║███████╗
+    ██║╚██╗██║██╔══╝   ██╔██╗ ██║   ██║╚════██║
+    ██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝███████║
+    ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+
+              ██████╗ ██╗███████╗███████╗███╗   ██╗
+              ██╔══██╗██║██╔════╝██╔════╝████╗  ██║
+              ██████╔╝██║███████╗█████╗  ██╔██╗ ██║
+              ██╔══██╗██║╚════██║██╔══╝  ██║╚██╗██║
+              ██║  ██║██║███████║███████╗██║ ╚████║
+              ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝
+
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=435&lines=%3E+SYSTEM+ONLINE...;%3E+INITIALIZING+PROFILE...;%3E+ACCESS+GRANTED" alt="Terminal"/>
 
 <br><br>
 
-<!-- ANIMATED STATS COUNTER -->
-<img src="https://img.shields.io/badge/YEARS_OF_EXCELLENCE-6+-10B981?style=flat-square&labelColor=0d1117"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/COMMUNITIES_BUILT-3+-8B5CF6?style=flat-square&labelColor=0d1117"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TRAINERS_SERVED-THOUSANDS-06B6D4?style=flat-square&labelColor=0d1117"/>
+<!-- MATRIX STYLE STATUS -->
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=flat&labelColor=000000"/>
+<img src="https://img.shields.io/badge/UPTIME-6%2B_YEARS-00FF41?style=flat&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LOCATION-THE_GRID-00FF41?style=flat&labelColor=000000"/>
 
 </div>
 
 <br>
 
-<!-- CYBERPUNK DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;THE ARCHITECT
+```css
+/* IDENTITY.SYS */
+```
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
-
-<br><br>
-
-<!-- FUTURISTIC INFO CARD -->
-<table>
+<table align="center">
 <tr>
 <td>
 
-```js
-const NexusRisen = {
-    identity: "Nex",
-    title: "Founder & Lead Developer",
-
-    empire: [
-        "GenPKM",
-        "SysBots Network",
-        "Legends to Mythicals"
-    ],
-
-    legacy: "6+ years of innovation",
-
-    mission: () => {
-        return "Democratizing gaming automation for all";
-    },
-
-    status: "Building the future..."
-};
+```ruby
+┌──────────────────────────────────────────┐
+│                                          │
+│   CODENAME    ░░░░░░░░░░░░░░░░░░░  Nex   │
+│   CLASS       ░░░░░░░░░░░░░░░  Founder   │
+│   SECTOR      ░░░░░░░░░░░  Automation    │
+│   CLEARANCE   ░░░░░░░░░░░░░░░░░░  MAX    │
+│                                          │
+│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   │
+│                                          │
+│   AFFILIATED NETWORKS:                   │
+│   ├─ GenPKM ................... [LEAD]   │
+│   ├─ SysBots Network .......... [LEAD]   │
+│   └─ Community Hub ............ [LEAD]   │
+│                                          │
+│   PRIMARY DIRECTIVE:                     │
+│   > Democratize gaming automation        │
+│   > Serve the community                  │
+│   > Build accessible tools               │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
 </td>
 <td>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> &nbsp;TECH ARSENAL
-
 <div align="center">
-
-<!-- ANIMATED TECH ICONS -->
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,python,cpp,java,lua&theme=dark&perline=8" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,bootstrap,php,mysql&theme=dark&perline=8" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=discord,github,azure,docker,vscode,visualstudio,git,nodejs&theme=dark&perline=8" />
-
-<br><br>
-
-<!-- TECH SPECIALIZATION BADGES -->
-<details>
-<summary><b>🎯 CORE SPECIALIZATIONS</b></summary>
-<br>
-
-| Domain | Technologies | Mastery |
-|:------:|:------------|:-------:|
-| 🤖 **Automation** | SysBot.NET, Discord.NET, Custom Frameworks | `████████████` 100% |
-| 🎮 **Gaming** | Nintendo Switch Integration, PKHeX | `███████████░` 95% |
-| 🌐 **Web Dev** | Next.js, React, TypeScript, Tailwind | `██████████░░` 90% |
-| 🔧 **Backend** | C#, .NET, Python, Node.js | `███████████░` 95% |
-| ☁️ **DevOps** | Azure, GitHub Actions, Docker | `█████████░░░` 85% |
-
-</details>
-
-</div>
-
-<br>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> &nbsp;FLAGSHIP PROJECTS
-
-<div align="center">
-
-<!-- PROJECT SHOWCASE -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20"/>
-&nbsp;POKEBOT
-</h3>
-
-<div align="center">
-
-<a href="https://github.com/NexusRisen/PokeBot">
-<img src="https://img.shields.io/badge/ADVANCED_SYSBOT.NET-REVOLUTION-8B5CF6?style=for-the-badge&labelColor=0d1117"/>
-</a>
-
-<br><br>
-
-[![Stars](https://img.shields.io/github/stars/NexusRisen/PokeBot?style=for-the-badge&logo=github&color=8B5CF6&labelColor=0d1117)](https://github.com/NexusRisen/PokeBot)
-[![Downloads](https://img.shields.io/github/downloads/NexusRisen/PokeBot/total?style=for-the-badge&logo=download&color=10B981&labelColor=0d1117)](https://github.com/NexusRisen/PokeBot/releases)
-
-</div>
-
-<br>
-
-```yaml
-FEATURES:
-  ├─ 🎛️ Web Control Panel (localhost:8080)
-  ├─ 📱 Remote Switch Management
-  ├─ 🔄 One-Click Auto Updates
-  ├─ 🎮 Multi-Bot Dashboard
-  └─ 📺 Stream Integration
-      ├─ Discord
-      ├─ Twitch
-      └─ YouTube
-```
-
-<br>
-
-<div align="center">
-<a href="https://github.com/NexusRisen/PokeBot">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT_%E2%86%92-8B5CF6?style=for-the-badge&labelColor=0d1117"/>
-</a>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20"/>
-&nbsp;SYSBOTS NETWORK
-</h3>
-
-<div align="center">
-
-<a href="https://sysbots.net">
-<img src="https://img.shields.io/badge/FREE_AUTOMATION-FOR_EVERYONE-06B6D4?style=for-the-badge&labelColor=0d1117"/>
-</a>
-
-<br><br>
-
-[![Discord](https://img.shields.io/badge/LEGENDS_TO_MYTHICALS-JOIN-5865F2?style=for-the-badge&logo=discord&labelColor=0d1117)](https://discord.gg/SfEPfqRSA2)
-[![Status](https://img.shields.io/badge/STATUS-ONLINE_24/7-10B981?style=for-the-badge&labelColor=0d1117)](https://sysbots.net)
-
-</div>
-
-<br>
-
-```yaml
-SERVICES:
-  ├─ ⚡ 24/7 Uptime Guaranteed
-  ├─ 🆓 100% Free Access
-  ├─ 👥 Thousands of Active Users
-  ├─ 🔧 Constant Updates
-  └─ 💬 Community Support
-      ├─ Live Assistance
-      ├─ Tutorials
-      └─ Documentation
-```
-
-<br>
-
-<div align="center">
-<a href="https://sysbots.net">
-<img src="https://img.shields.io/badge/VISIT_NETWORK_%E2%86%92-06B6D4?style=for-the-badge&labelColor=0d1117"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=NexusRisen&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" width="400"/>
 </div>
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
+
+---
 
 <br>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;PERFORMANCE METRICS
+```css
+/* ARSENAL.DAT */
+```
 
 <div align="center">
-
-<!-- GITHUB STATS GRID -->
-<a href="https://github.com/NexusRisen">
-  <img src="https://nexusrisen.net/stats/github-stats.svg" alt="GitHub Stats" height="180"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/NexusRisen">
-  <img src="https://nexusrisen.net/stats/languages.svg" alt="Top Languages" height="180"/>
-</a>
-
-<br><br>
-
-<!-- STREAK STATS -->
-<a href="https://github.com/NexusRisen">
-  <img src="https://nexusrisen.net/stats/streak.svg" alt="GitHub Streak"/>
-</a>
-
-<br><br>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/NexusRisen">
-  <img src="https://nexusrisen.net/stats/activity.svg" alt="Activity Graph" width="100%"/>
-</a>
-
-<br><br>
-
-<!-- TROPHIES -->
-<a href="https://github.com/NexusRisen">
-  <img src="https://nexusrisen.net/stats/trophies.svg" alt="Trophies" width="100%"/>
-</a>
-
-</div>
-
-<br>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" /> &nbsp;GLOBAL IMPACT
-
-<div align="center">
-
-<!-- IMPACT VISUALIZATION -->
-<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="150"/>
-
-<br><br>
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/>
-<br><br>
-<b>THOUSANDS</b>
+<td align="center">
 <br>
-<sub>Trainers Empowered</sub>
+
+**`CORE_SYSTEMS`**
+
+<br>
+
+![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=00FF41)
+![.NET](https://img.shields.io/badge/.NET-000?style=flat-square&logo=dotnet&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=00FF41)
+![Lua](https://img.shields.io/badge/Lua-000?style=flat-square&logo=lua&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=00FF41)
+
+<br>
 </td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/>
-<br><br>
-<b>24/7</b>
+</tr>
+<tr>
+<td align="center">
 <br>
-<sub>Service Uptime</sub>
+
+**`WEB_PROTOCOLS`**
+
+<br>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00FF41)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=00FF41)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=00FF41)
+
+<br>
 </td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/>
-<br><br>
-<b>100%</b>
+</tr>
+<tr>
+<td align="center">
 <br>
-<sub>Free Access</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/>
-<br><br>
-<b>6+ YEARS</b>
+
+**`INFRASTRUCTURE`**
+
 <br>
-<sub>Of Excellence</sub>
+
+![Discord](https://img.shields.io/badge/Discord_API-000?style=flat-square&logo=discord&logoColor=00FF41)
+![Azure](https://img.shields.io/badge/Azure-000?style=flat-square&logo=microsoftazure&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=00FF41)
+![GitHub Actions](https://img.shields.io/badge/Actions-000?style=flat-square&logo=githubactions&logoColor=00FF41)
+![Nintendo](https://img.shields.io/badge/Switch_Dev-000?style=flat-square&logo=nintendoswitch&logoColor=00FF41)
+
+<br>
 </td>
 </tr>
 </table>
 
+</div>
+
 <br>
 
-<!-- QUOTE BOX -->
+---
+
+<br>
+
+```css
+/* PROJECTS.EXE */
 ```
-╔════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                    ║
-║   "Technology should empower everyone. Every trainer deserves access to tools     ║
-║    that enhance their gaming experience—regardless of technical expertise."        ║
-║                                                                                    ║
-║                                                          — Nex, Founder            ║
-║                                                                                    ║
-╚════════════════════════════════════════════════════════════════════════════════════╝
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
 ```
+╔═══════════════════════════════════════╗
+║                                       ║
+║   ██████╗  ██████╗ ██╗  ██╗███████╗   ║
+║   ██╔══██╗██╔═══██╗██║ ██╔╝██╔════╝   ║
+║   ██████╔╝██║   ██║█████╔╝ █████╗     ║
+║   ██╔═══╝ ██║   ██║██╔═██╗ ██╔══╝     ║
+║   ██║     ╚██████╔╝██║  ██╗███████╗   ║
+║   ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝   ║
+║                                       ║
+║   ██████╗  ██████╗ ████████╗          ║
+║   ██╔══██╗██╔═══██╗╚══██╔══╝          ║
+║   ██████╔╝██║   ██║   ██║             ║
+║   ██╔══██╗██║   ██║   ██║             ║
+║   ██████╔╝╚██████╔╝   ██║             ║
+║   ╚═════╝  ╚═════╝    ╚═╝             ║
+║                                       ║
+╚═══════════════════════════════════════╝
+```
+
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/NexusRisen/PokeBot?style=flat-square&color=00FF41&labelColor=000000&label=STARS)](https://github.com/NexusRisen/PokeBot)
+[![Downloads](https://img.shields.io/github/downloads/NexusRisen/PokeBot/total?style=flat-square&color=00FF41&labelColor=000000&label=DOWNLOADS)](https://github.com/NexusRisen/PokeBot/releases)
+
+</div>
+
+```
+> Advanced SysBot.NET Fork
+> Web Control Panel @ :8080
+> Remote Switch Management
+> Auto-Update System
+> Multi-Platform Streaming
+```
+
+<div align="center">
+
+[![VIEW](https://img.shields.io/badge/[_EXECUTE_]-000?style=flat-square&logoColor=00FF41)](https://github.com/NexusRisen/PokeBot)
+
+</div>
+
+</td>
+<td width="50%">
+
+```
+╔═══════════════════════════════════════╗
+║                                       ║
+║   ███████╗██╗   ██╗███████╗           ║
+║   ██╔════╝╚██╗ ██╔╝██╔════╝           ║
+║   ███████╗ ╚████╔╝ ███████╗           ║
+║   ╚════██║  ╚██╔╝  ╚════██║           ║
+║   ███████║   ██║   ███████║           ║
+║   ╚══════╝   ╚═╝   ╚══════╝           ║
+║                                       ║
+║   ██████╗  ██████╗ ████████╗███████╗  ║
+║   ██╔══██╗██╔═══██╗╚══██╔══╝██╔════╝  ║
+║   ██████╔╝██║   ██║   ██║   ███████╗  ║
+║   ██╔══██╗██║   ██║   ██║   ╚════██║  ║
+║   ██████╔╝╚██████╔╝   ██║   ███████║  ║
+║   ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝  ║
+║                                       ║
+╚═══════════════════════════════════════╝
+```
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=000000)](https://sysbots.net)
+[![Access](https://img.shields.io/badge/ACCESS-FREE-00FF41?style=flat-square&labelColor=000000)](https://sysbots.net)
+
+</div>
+
+```
+> Free Automation Network
+> 24/7 Service Uptime
+> Thousands of Users
+> Zero Cost Access
+> Community Driven
+```
+
+<div align="center">
+
+[![VISIT](https://img.shields.io/badge/[_CONNECT_]-000?style=flat-square&logoColor=00FF41)](https://sysbots.net)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" /> &nbsp;CONNECT
+```css
+/* METRICS.LOG */
+```
+
+<br>
 
 <div align="center">
 
-<!-- ANIMATED CONNECT SECTION -->
-<img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100"/>
-
-<br><br>
-
-<!-- SOCIAL LINKS -->
 <a href="https://github.com/NexusRisen">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://discord.gg/SfEPfqRSA2">
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://genpkm.com">
-  <img src="https://img.shields.io/badge/GENPKM-8B5CF6?style=for-the-badge&logo=pokemon&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://sysbots.net">
-  <img src="https://img.shields.io/badge/SYSBOTS-06B6D4?style=for-the-badge&logo=nintendo-switch&logoColor=white&labelColor=0d1117"/>
+<img src="https://nexusrisen.net/stats/streak.svg" alt="Streak"/>
 </a>
 
 <br><br>
 
-<!-- DISCORD SERVER WIDGET -->
-<a href="https://discord.gg/SfEPfqRSA2">
-  <img src="https://img.shields.io/badge/🎮_LEGENDS_TO_MYTHICALS-JOIN_THE_COMMUNITY-5865F2?style=for-the-badge&labelColor=0d1117"/>
+<a href="https://github.com/NexusRisen">
+<img src="https://nexusrisen.net/stats/activity.svg" alt="Activity" width="100%"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/NexusRisen">
+<img src="https://nexusrisen.net/stats/languages.svg" alt="Languages"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/NexusRisen">
+<img src="https://nexusrisen.net/stats/trophies.svg" alt="Trophies" width="100%"/>
 </a>
 
 </div>
 
 <br>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:06B6D4,100:10B981&height=150&section=footer&reversal=true" width="100%"/>
+---
+
+<br>
+
+```css
+/* NETWORK.LINK */
+```
+
+<br>
 
 <div align="center">
 
-<!-- PROFILE VIEWS & SIGNATURE -->
-<img src="https://komarev.com/ghpvc/?username=NexusRisen&color=8B5CF6&style=for-the-badge&label=VISITORS"/>
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   [01]  GITHUB ............... github.com/NexusRisen        │
+│   [02]  GENPKM ........................... genpkm.com       │
+│   [03]  SYSBOTS ......................... sysbots.net       │
+│   [04]  DISCORD ............ discord.gg/SfEPfqRSA2         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+[![GitHub](https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/NexusRisen)
+[![Discord](https://img.shields.io/badge/DISCORD-000?style=for-the-badge&logo=discord&logoColor=00FF41)](https://discord.gg/SfEPfqRSA2)
+[![GenPKM](https://img.shields.io/badge/GENPKM-000?style=for-the-badge&logo=pokemon&logoColor=00FF41)](https://genpkm.com)
+[![SysBots](https://img.shields.io/badge/SYSBOTS-000?style=for-the-badge&logo=nintendoswitch&logoColor=00FF41)](https://sysbots.net)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   "In a world of paywalls and gatekeepers, we build bridges."      ║
+║                                                                    ║
+║                                              ─ Nex                 ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=NexusRisen&color=00FF41&style=flat-square&label=PROFILE_VIEWS)
 
 <br>
 
 ```
- ██████   █████
-░░██████ ░░███
- ░███░███ ░███   ██████  █████ █████
- ░███░░███░███  ███░░███░░███ ░░███
- ░███ ░░██████ ░███████  ░░░█████░
- ░███  ░░█████ ░███░░░    ███░░░███
- █████  ░░█████░░██████  █████ █████
-░░░░░    ░░░░░  ░░░░░░  ░░░░░ ░░░░░
+> SESSION TERMINATED
+> RETURNING TO MAIN GRID...
 ```
 
-<sub><b>Powered by passion for the community</b></sub>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:000000&height=2&section=footer" width="100%"/>
 
 </div>
