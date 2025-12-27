@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Nex&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Nexus%20Risen&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-**Founder & Lead Developer**
-
-GenPKM • SysBots Network
+**GenPKM East Coast Provider • Pokémon Hobbyist**
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SfEPfqRSA2)
-[![GenPKM](https://img.shields.io/badge/GenPKM-Website-667eea?style=for-the-badge&logo=pokemon&logoColor=white)](https://genpkm.com)
-[![SysBots](https://img.shields.io/badge/SysBots-Network-764ba2?style=for-the-badge&logo=nintendo-switch&logoColor=white)](https://sysbots.net)
+[![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexusrisen.net)
+[![Discord](https://img.shields.io/badge/Discord-GenPKM-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3ZscSnye6c)
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Donate-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
 
 </div>
 
@@ -20,13 +18,14 @@ GenPKM • SysBots Network
 
 ## About
 
-Building accessible gaming automation tools for over **6 years**. I create free, open-source solutions that empower the Pokémon community.
+East Coast GenPKM provider and Pokémon Hobbyist with years of experience in Pokémon automation and development. Dedicated to delivering quality services and tools for trainers everywhere.
 
 | Organization | Description | Role |
 |:-------------|:------------|:-----|
-| [GenPKM](https://genpkm.com) | Pokemon automation platform | Founder |
-| [SysBots Network](https://sysbots.net) | Free 24/7 SysBot services | Founder |
-| Community Discord | Support hub with thousands of members | Owner |
+| [GenPKM](https://genpkm.com) | Main GenPKM Website | East Coast Provider |
+| [GenPKM Network](https://genpkm.net) | GenPKM community hub | Provider |
+| [SysBots Network](https://sysbots.net) | Free 24/7 SysBot services | Provider |
+| [Nexus Tavern](https://nexustavern.gg) | 3D Immersive World | Creator |
 
 ---
 
@@ -34,6 +33,24 @@ Building accessible gaming automation tools for over **6 years**. I create free,
 
 <table>
 <tr>
+<td width="50%">
+
+### PKHeX
+
+Pokémon save editor for all generations.
+
+[![Stars](https://img.shields.io/github/stars/NexusRisen/PKHeXth?style=flat-square&color=667eea)](https://github.com/NexusRisen/PKHeXth)
+[![Downloads](https://img.shields.io/github/downloads/NexusRisen/PKHeXth/total?style=flat-square&color=764ba2)](https://github.com/NexusRisen/PKHeXth/releases)
+
+- Complete save editing
+- Legality checking
+- Batch editing tools
+- Plugin support
+- Regular updates
+
+**[View Project →](https://github.com/NexusRisen/PKHeXth)**
+
+</td>
 <td width="50%">
 
 ### PokeBot
@@ -47,31 +64,23 @@ Advanced SysBot.NET fork with a modern control panel.
 - Remote Switch management
 - One-click auto updates
 - Multi-bot dashboard
-- Stream integration (Discord, Twitch, YouTube)
+- Stream integration
 
 **[View Project →](https://github.com/NexusRisen/PokeBot)**
 
 </td>
-<td width="50%">
-
-### SysBots Network
-
-Free automation services available 24/7.
-
-[![Status](https://img.shields.io/badge/Status-Online-success?style=flat-square)](https://sysbots.net)
-[![Cost](https://img.shields.io/badge/Cost-Free-667eea?style=flat-square)](https://sysbots.net)
-
-- Always online, zero downtime goal
-- Completely free for everyone
-- Serving thousands of trainers
-- Active development & updates
-- Community-driven support
-
-**[Visit Network →](https://sysbots.net)**
-
-</td>
 </tr>
 </table>
+
+---
+
+## Downloads
+
+| Tool | Description | Download |
+|:-----|:------------|:---------|
+| PKHeX | Pokémon save editor | [![Download](https://img.shields.io/badge/Download-Latest-667eea?style=flat-square)](https://github.com/NexusRisen/PKHeXth/releases/latest) |
+| PokeBot | Pokémon automation bot | [![Download](https://img.shields.io/badge/Download-Latest-667eea?style=flat-square)](https://github.com/NexusRisen/PokeBot/releases/latest) |
+| PKHeX Mobile | PKHeX for Android | [![Download](https://img.shields.io/badge/Download-Latest-667eea?style=flat-square)](https://github.com/santacrab2/PKHeXMAUI/releases/latest) |
 
 ---
 
@@ -83,19 +92,15 @@ Free automation services available 24/7.
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Discord](https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
@@ -129,14 +134,14 @@ Free automation services available 24/7.
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexusrisen.net)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexusRisen)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SfEPfqRSA2)
-[![GenPKM](https://img.shields.io/badge/GenPKM-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://genpkm.com)
-[![SysBots](https://img.shields.io/badge/SysBots-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sysbots.net)
+[![Discord](https://img.shields.io/badge/Discord-GenPKM-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3ZscSnye6c)
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Donate-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
 
 <br>
 
-*"Technology should empower everyone."*
+*"Dedicated to delivering quality services and tools for trainers everywhere."*
 
 <br>
 
