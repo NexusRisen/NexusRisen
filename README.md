@@ -46,7 +46,7 @@
 <br>
 
 <!-- Legacy Tools Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="30" /> Legacy Tools
+## :package: Legacy Tools
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy" width="24" /> PKHeX
+### :floppy_disk: PKHeX
 The ultimate Pokemon save editor supporting all generations.
 
 **Features:**
@@ -76,7 +76,7 @@ The ultimate Pokemon save editor supporting all generations.
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="24" /> PKHeX Mobile
+### :iphone: PKHeX Mobile
 PKHeX for Android devices.
 
 **Features:**
@@ -98,7 +98,7 @@ PKHeX for Android devices.
 ---
 
 <!-- Claude Code Resources -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> Claude Code Resources
+## :robot: Claude Code Resources
 
 <div align="center">
 
@@ -121,7 +121,7 @@ PKHeX for Android devices.
 ---
 
 <!-- Featured Repository -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" /> Featured Repository
+## :star2: Featured Repository
 
 <div align="center">
 
@@ -142,7 +142,7 @@ PKHeX for Android devices.
 ---
 
 <!-- Tech Stack -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
+## :hammer_and_wrench: Tech Stack
 
 <div align="center">
 
@@ -161,7 +161,7 @@ PKHeX for Android devices.
 ---
 
 <!-- GitHub Stats -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Stats
+## :bar_chart: GitHub Stats
 
 <div align="center">
 
@@ -189,7 +189,7 @@ PKHeX for Android devices.
 <!-- Archive Notice -->
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Folder" width="28" /> Archive Notice
+### :file_folder: Archive Notice
 
 *All repositories on this profile are now archived and provided as-is.*
 *Feel free to fork any project and continue development.*
