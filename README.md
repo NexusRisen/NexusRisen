@@ -2,12 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Nexus%20Risen&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-**GenPKM East Coast Provider • Pokémon Hobbyist**
+**Pokémon Hobbyist**
 
 <br>
 
 [![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexusrisen.net)
-[![Discord](https://img.shields.io/badge/Discord-GenPKM-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3ZscSnye6c)
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Donate-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
 
 </div>
@@ -18,22 +17,11 @@
 
 ## About
 
-East Coast GenPKM provider and Pokémon Hobbyist with years of experience in Pokémon automation and development. Dedicated to delivering quality services and tools for trainers everywhere.
-
-| Organization | Description | Role |
-|:-------------|:------------|:-----|
-| [GenPKM](https://genpkm.com) | Main GenPKM Website | East Coast Provider |
-| [GenPKM Network](https://genpkm.net) | GenPKM community hub | Provider |
-| [SysBots Network](https://sysbots.net) | Free 24/7 SysBot services | Provider |
-| [Nexus Tavern](https://nexustavern.gg) | 3D Immersive World | Creator |
+Pokémon Hobbyist with years of experience in Pokémon automation and development. Dedicated to delivering quality services and tools for trainers everywhere.
 
 ---
 
 ## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
 
 ### PKHeX
 
@@ -50,28 +38,6 @@ Pokémon save editor for all generations.
 
 **[View Project →](https://github.com/NexusRisen/PKHeXth)**
 
-</td>
-<td width="50%">
-
-### PokeBot
-
-Advanced SysBot.NET fork with a modern control panel.
-
-[![Stars](https://img.shields.io/github/stars/NexusRisen/PokeBot?style=flat-square&color=667eea)](https://github.com/NexusRisen/PokeBot)
-[![Downloads](https://img.shields.io/github/downloads/NexusRisen/PokeBot/total?style=flat-square&color=764ba2)](https://github.com/NexusRisen/PokeBot/releases)
-
-- Web control panel at `localhost:8080`
-- Remote Switch management
-- One-click auto updates
-- Multi-bot dashboard
-- Stream integration
-
-**[View Project →](https://github.com/NexusRisen/PokeBot)**
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## Downloads
@@ -79,7 +45,6 @@ Advanced SysBot.NET fork with a modern control panel.
 | Tool | Description | Download |
 |:-----|:------------|:---------|
 | PKHeX | Pokémon save editor | [![Download](https://img.shields.io/badge/Download-Latest-667eea?style=flat-square)](https://github.com/NexusRisen/PKHeXth/releases/latest) |
-| PokeBot | Pokémon automation bot | [![Download](https://img.shields.io/badge/Download-Latest-667eea?style=flat-square)](https://github.com/NexusRisen/PokeBot/releases/latest) |
 | PKHeX Mobile | PKHeX for Android | [![Download](https://img.shields.io/badge/Download-Latest-667eea?style=flat-square)](https://github.com/santacrab2/PKHeXMAUI/releases/latest) |
 
 ---
@@ -172,7 +137,6 @@ Advanced SysBot.NET fork with a modern control panel.
 
 [![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexusrisen.net)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexusRisen)
-[![Discord](https://img.shields.io/badge/Discord-GenPKM-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3ZscSnye6c)
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Donate-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
 
 <br>
