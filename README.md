@@ -1,123 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Nexus%20Risen&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=NEXUS%20RISEN&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Pokemon%20Hobbyist%20%7C%20Developer%20%7C%20Innovator&descSize=18&descAlignY=55"/>
 
-**Pokémon Hobbyist**
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Crafting+tools+for+trainers+worldwide;Building+the+future+of+Pokemon+automation" alt="Typing SVG" /></a>
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexusrisen.net)
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Donate-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
+<!-- Badges -->
+[![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=safari&logoColor=white)](https://nexusrisen.net)
+[![Ko-Fi](https://img.shields.io/badge/Support-Ko--Fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexusRisen)
+
+<br>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NexusRisen/NexusRisen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NexusRisen/NexusRisen/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NexusRisen/NexusRisen/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
 <br>
 
----
+<!-- About Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
 
-## About
+```typescript
+const nexusRisen = {
+  role: "Pokemon Hobbyist & Developer",
+  passions: ["Pokemon Automation", "Tool Development", "Open Source"],
+  currentFocus: "Building quality tools for trainers everywhere",
+  funFact: "Probably debugging Pokemon data right now"
+};
+```
 
-Pokémon Hobbyist with years of experience in Pokémon automation and development. Dedicated to delivering quality services and tools for trainers everywhere.
+<br>
 
----
+<!-- Featured Project -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="30" /> Featured Project
 
-## Featured Projects
+<div align="center">
+
+<a href="https://github.com/NexusRisen/PKHeXth">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=PKHeXth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 ### PKHeX
+The ultimate Pokemon save editor supporting all generations.
 
-Pokémon save editor for all generations.
+**Key Features:**
+- Complete save file editing
+- Real-time legality checking
+- Batch editing capabilities
+- Plugin ecosystem support
+- Continuous updates
 
-[![Stars](https://img.shields.io/github/stars/NexusRisen/PKHeXth?style=flat-square&color=667eea)](https://github.com/NexusRisen/PKHeXth)
-[![Downloads](https://img.shields.io/github/downloads/NexusRisen/PKHeXth/total?style=flat-square&color=764ba2)](https://github.com/NexusRisen/PKHeXth/releases)
+</td>
+<td width="50%" valign="top">
 
-- Complete save editing
-- Legality checking
-- Batch editing tools
-- Plugin support
-- Regular updates
+### Quick Stats
 
-**[View Project →](https://github.com/NexusRisen/PKHeXth)**
+![Stars](https://img.shields.io/github/stars/NexusRisen/PKHeXth?style=for-the-badge&color=667eea&labelColor=0D1117)
+![Downloads](https://img.shields.io/github/downloads/NexusRisen/PKHeXth/total?style=for-the-badge&color=764ba2&labelColor=0D1117)
+![Issues](https://img.shields.io/github/issues/NexusRisen/PKHeXth?style=for-the-badge&color=f093fb&labelColor=0D1117)
 
----
+<br>
 
-## Downloads
+[![Download PKHeX](https://img.shields.io/badge/Download-PKHeX-667eea?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NexusRisen/PKHeXth/releases/latest)
 
-| Tool | Description | Download |
-|:-----|:------------|:---------|
-| PKHeX | Pokémon save editor | [![Download](https://img.shields.io/badge/Download-Latest-667eea?style=flat-square)](https://github.com/NexusRisen/PKHeXth/releases/latest) |
-| PKHeX Mobile | PKHeX for Android | [![Download](https://img.shields.io/badge/Download-Latest-667eea?style=flat-square)](https://github.com/santacrab2/PKHeXMAUI/releases/latest) |
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## Tech Stack
+<!-- Downloads -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Download" width="30" /> Downloads
 
 <div align="center">
 
-#### Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-#### Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-#### Game Development
-![Babylon.js](https://img.shields.io/badge/Babylon.js-BB464B?style=for-the-badge&logo=babylondotjs&logoColor=white)
-![Colyseus](https://img.shields.io/badge/Colyseus-7B68EE?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Havok](https://img.shields.io/badge/Havok_Physics-FF6600?style=for-the-badge&logo=havok&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+| Tool | Platform | Description | Link |
+|:----:|:--------:|:------------|:----:|
+| **PKHeX** | <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> | Pokemon Save Editor | [![Download](https://img.shields.io/badge/Get-Latest-667eea?style=flat-square)](https://github.com/NexusRisen/PKHeXth/releases/latest) |
+| **PKHeX Mobile** | <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> | Mobile Save Editor | [![Download](https://img.shields.io/badge/Get-APK-764ba2?style=flat-square)](https://github.com/santacrab2/PKHeXMAUI/releases/latest) |
 
 </div>
 
----
+<br>
 
-## GitHub Stats
+<!-- Tech Stack -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
 
 <div align="center">
 
-<img src="https://nexusrisen.net/stats/github-stats.svg" alt="GitHub Stats" height="170"/>
-<img src="https://nexusrisen.net/stats/languages.svg" alt="Top Languages" height="170"/>
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,ts,js,python,lua,java,html,css,bash,powershell&perline=6&theme=dark" />
 
 <br><br>
 
-<img src="https://nexusrisen.net/stats/streak.svg" alt="GitHub Streak"/>
+<!-- Frameworks & Tools -->
+<img src="https://skillicons.dev/icons?i=dotnet,nextjs,react,nodejs,tailwind,electron,discord,git,github,githubactions,vscode,visualstudio,docker,unity,unreal,godot,blender,threejs,mongodb,mysql,sqlite,redis&perline=11&theme=dark" />
+
+</div>
+
+<br>
+
+<!-- GitHub Stats -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Stats
+
+<div align="center">
+
+<img src="https://nexusrisen.net/stats/github-stats.svg" alt="GitHub Stats" height="180"/>
+<img src="https://nexusrisen.net/stats/languages.svg" alt="Top Languages" height="180"/>
+
+<br><br>
+
+<img src="https://nexusrisen.net/stats/streak.svg" alt="GitHub Streak" width="700"/>
 
 <br><br>
 
@@ -129,24 +137,26 @@ Pokémon save editor for all generations.
 
 </div>
 
----
+<br>
 
-## Connect
+<!-- Connect -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" /> Let's Connect
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexusrisen.net)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexusRisen)
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Donate-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
+[![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=safari&logoColor=white)](https://nexusrisen.net)
+[![GitHub](https://img.shields.io/badge/GitHub-NexusRisen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexusRisen)
+[![Ko-Fi](https://img.shields.io/badge/Support-Ko--Fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
 
-<br>
+<br><br>
 
-*"Dedicated to delivering quality services and tools for trainers everywhere."*
+<img src="https://komarev.com/ghpvc/?username=NexusRisen&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
-<br>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NexusRisen&color=667eea&style=flat-square&label=Profile+Views)
+### *"Dedicated to delivering quality tools for trainers everywhere."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
