@@ -106,13 +106,11 @@ PKHeX for Android devices.
 
 <br>
 
-<a href="https://github.com/NexusRisen/sys-agents">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=sys-agents&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
-</a>
+[![sys-agents](https://img.shields.io/badge/sys--agents-Claude%20Agents%20for%20PokeBot-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexusRisen/sys-agents)
 
 <br>
 
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Install%20Here-667eea?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.com/product/claude-code)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Install%20Here-764ba2?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.com/product/claude-code)
 
 </div>
 
@@ -125,15 +123,17 @@ PKHeX for Android devices.
 
 <div align="center">
 
-<a href="https://github.com/NexusRisen/PKHeXth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=PKHeXth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
-</a>
+[![PKHeXth](https://img.shields.io/badge/PKHeXth-Pokemon%20Save%20Editor-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexusRisen/PKHeXth)
 
 <br><br>
 
 ![Stars](https://img.shields.io/github/stars/NexusRisen/PKHeXth?style=for-the-badge&color=667eea&labelColor=0D1117)
 ![Downloads](https://img.shields.io/github/downloads/NexusRisen/PKHeXth/total?style=for-the-badge&color=764ba2&labelColor=0D1117)
 ![Forks](https://img.shields.io/github/forks/NexusRisen/PKHeXth?style=for-the-badge&color=f093fb&labelColor=0D1117)
+
+<br>
+
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-3DDC84?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NexusRisen/PKHeXth/releases/latest)
 
 </div>
 
