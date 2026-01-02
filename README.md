@@ -98,7 +98,7 @@ PKHeX for Android devices.
 ---
 
 <!-- Claude Code Resources -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="30" /> Claude Code Resources
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> Claude Code Resources
 
 <div align="center">
 
