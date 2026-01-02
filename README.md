@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=NEXUS%20RISEN&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Pokemon%20Hobbyist%20%7C%20Developer%20%7C%20Innovator&descSize=18&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=NEXUS%20RISEN&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Retired%20Pok%C3%A9mon%20Hobbyist%20%7C%20Legacy%20Preserved&descSize=18&descAlignY=55"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Crafting+tools+for+trainers+worldwide;Building+the+future+of+Pokemon+automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=Years+of+dedication%2C+now+archived+for+the+future;Tools+and+resources+to+empower+developers" alt="Typing SVG" /></a>
 
 <br>
 
 <!-- Badges -->
 [![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=safari&logoColor=white)](https://nexusrisen.net)
 [![Ko-Fi](https://img.shields.io/badge/Support-Ko--Fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexusRisen)
+[![Status](https://img.shields.io/badge/Status-Retired-764ba2?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
 <br>
 
@@ -26,57 +26,68 @@
 
 <br>
 
-<!-- About Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+---
 
-```typescript
-const nexusRisen = {
-  role: "Pokemon Hobbyist & Developer",
-  passions: ["Pokemon Automation", "Tool Development", "Open Source"],
-  currentFocus: "Building quality tools for trainers everywhere",
-  funFact: "Probably debugging Pokemon data right now"
-};
-```
+<!-- Farewell Message -->
+<div align="center">
+
+### A Message to the Community
+
+</div>
+
+> *After years of dedicated work in Pokemon automation and development, I have officially retired from the community. This profile remains as my legacy—a curated collection of tools, documentation, and resources to empower developers in building stable, production-ready software. All projects are archived here for anyone inspired to carry the torch forward.*
+>
+> *With this transition, my Discord presence has ended and I am no longer reachable.*
+>
+> ***Thank you for being part of the journey.***
+
+---
 
 <br>
 
-<!-- Featured Project -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="30" /> Featured Project
+<!-- Legacy Tools Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="30" /> Legacy Tools
 
 <div align="center">
 
-<a href="https://github.com/NexusRisen/PKHeXth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=PKHeXth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
-</a>
+*These tools remain available for the community. Feel free to fork and continue development.*
 
 </div>
+
+<br>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### PKHeX
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy" width="24" /> PKHeX
 The ultimate Pokemon save editor supporting all generations.
 
-**Key Features:**
+**Features:**
 - Complete save file editing
 - Real-time legality checking
 - Batch editing capabilities
 - Plugin ecosystem support
-- Continuous updates
-
-</td>
-<td width="50%" valign="top">
-
-### Quick Stats
-
-![Stars](https://img.shields.io/github/stars/NexusRisen/PKHeXth?style=for-the-badge&color=667eea&labelColor=0D1117)
-![Downloads](https://img.shields.io/github/downloads/NexusRisen/PKHeXth/total?style=for-the-badge&color=764ba2&labelColor=0D1117)
-![Issues](https://img.shields.io/github/issues/NexusRisen/PKHeXth?style=for-the-badge&color=f093fb&labelColor=0D1117)
 
 <br>
 
 [![Download PKHeX](https://img.shields.io/badge/Download-PKHeX-667eea?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NexusRisen/PKHeXth/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="24" /> PKHeX Mobile
+PKHeX for Android devices.
+
+**Features:**
+- Full save editing on mobile
+- Portable and convenient
+- Same powerful features
+- Community maintained
+
+<br>
+
+[![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/santacrab2/PKHeXMAUI/releases/latest)
 
 </td>
 </tr>
@@ -84,19 +95,51 @@ The ultimate Pokemon save editor supporting all generations.
 
 <br>
 
-<!-- Downloads -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Download" width="30" /> Downloads
+---
+
+<!-- Claude Code Resources -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="30" /> Claude Code Resources
 
 <div align="center">
 
-| Tool | Platform | Description | Link |
-|:----:|:--------:|:------------|:----:|
-| **PKHeX** | <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> | Pokemon Save Editor | [![Download](https://img.shields.io/badge/Get-Latest-667eea?style=flat-square)](https://github.com/NexusRisen/PKHeXth/releases/latest) |
-| **PKHeX Mobile** | <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> | Mobile Save Editor | [![Download](https://img.shields.io/badge/Get-APK-764ba2?style=flat-square)](https://github.com/santacrab2/PKHeXMAUI/releases/latest) |
+*Resources to help developers build with Claude Code*
+
+<br>
+
+<a href="https://github.com/NexusRisen/sys-agents">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=sys-agents&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
+</a>
+
+<br>
+
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Install%20Here-667eea?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.com/product/claude-code)
 
 </div>
 
 <br>
+
+---
+
+<!-- Featured Repository -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="30" /> Featured Repository
+
+<div align="center">
+
+<a href="https://github.com/NexusRisen/PKHeXth">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NexusRisen&repo=PKHeXth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
+</a>
+
+<br><br>
+
+![Stars](https://img.shields.io/github/stars/NexusRisen/PKHeXth?style=for-the-badge&color=667eea&labelColor=0D1117)
+![Downloads](https://img.shields.io/github/downloads/NexusRisen/PKHeXth/total?style=for-the-badge&color=764ba2&labelColor=0D1117)
+![Forks](https://img.shields.io/github/forks/NexusRisen/PKHeXth?style=for-the-badge&color=f093fb&labelColor=0D1117)
+
+</div>
+
+<br>
+
+---
 
 <!-- Tech Stack -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
@@ -114,6 +157,8 @@ The ultimate Pokemon save editor supporting all generations.
 </div>
 
 <br>
+
+---
 
 <!-- GitHub Stats -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Stats
@@ -139,22 +184,30 @@ The ultimate Pokemon save editor supporting all generations.
 
 <br>
 
-<!-- Connect -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" /> Let's Connect
+---
 
+<!-- Archive Notice -->
 <div align="center">
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Folder" width="28" /> Archive Notice
+
+*All repositories on this profile are now archived and provided as-is.*
+*Feel free to fork any project and continue development.*
+
+<br>
+
 [![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=safari&logoColor=white)](https://nexusrisen.net)
-[![GitHub](https://img.shields.io/badge/GitHub-NexusRisen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NexusRisen)
 [![Ko-Fi](https://img.shields.io/badge/Support-Ko--Fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=NexusRisen&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 <br><br>
 
 ### *"Dedicated to delivering quality tools for trainers everywhere."*
+
+**— Nexus Risen**
 
 </div>
 
