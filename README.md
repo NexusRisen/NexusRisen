@@ -35,7 +35,7 @@
 
 </div>
 
-> *After years of dedicated work in Pokemon automation and development, I have officially retired from the community. This profile remains as my legacy—a curated collection of tools, documentation, and resources to empower developers in building stable, production-ready software. All projects are archived here for anyone inspired to carry the torch forward.*
+> *After years of dedicated work in Pokémon automation and development, my time with GenPKM came to an end when I was let go, prompting my official retirement from the community. I have passed the King of Sysbots title to Xero. This profile remains as my legacy—a curated collection of tools, documentation, and resources to empower developers in building stable, production-ready software. All projects are archived here for anyone inspired to carry the torch forward.*
 >
 > *With this transition, my Discord presence has ended and I am no longer reachable.*
 >
