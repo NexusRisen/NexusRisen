@@ -140,7 +140,7 @@
 <!-- Footer -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NexusRisen&color=667eea&style=for-the-badge&label=Profile+Views&base=100000" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=NexusRisen&color=667eea&style=for-the-badge&label=Profile+Views&base=200000" alt="Profile Views"/>
 
 <br><br>
 
