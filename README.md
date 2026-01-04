@@ -35,7 +35,9 @@
 
 </div>
 
-> *I am a passionate software engineer with a strong focus on **automation**, **backend systems**, and **game mechanics**. With years of experience leading projects like **GenPKM** and developing tools like **PKHeXth**, I specialize in creating robust, user-friendly solutions for complex problems. My expertise spans across the full stack, from low-level memory editing to high-level web applications.*
+> *After years of dedicated work in automation and development, I have officially **retired** from the community. I have passed the title of **King of Sysbots** to **Xero**.*
+>
+> *This profile remains as a legacy of my work—showcasing projects like **GenPKM** and **PKHeXth**. While I am no longer active, these resources are preserved to empower the next generation of developers to carry the torch forward.*
 
 <br>
 
