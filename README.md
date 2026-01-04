@@ -144,7 +144,7 @@
 <!-- Footer -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NexusRisen&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://nexusrisen.net/stats/profile-views.svg" alt="Profile Views"/>
 
 <br><br>
 
