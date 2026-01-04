@@ -144,7 +144,7 @@
 <!-- Footer -->
 <div align="center">
 
-<img src="https://nexusrisen.net/stats/profile-views.svg" alt="Profile Views"/>
+<img src="https://raw.githubusercontent.com/NexusRisen/nexusrisen.github.io/ae61aff66b50bb3b0f988569ee5519d9755dce1d/public/stats/profile-views.svg?token=AGJGIIFSCJFFWQBG34FKPALJLLMMO" alt="Profile Views"/>
 
 <br><br>
 
