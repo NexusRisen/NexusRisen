@@ -60,7 +60,7 @@
 
 <br>
 
-[![SEO](https://img.shields.io/badge/SEO-Optimization-brightgreen?style=for-the-badge&logo=google&logoColor=white)]()
+<img src="https://img.shields.io/badge/SEO_Optimization-Expert-667eea?style=for-the-badge&logo=google-search-console&logoColor=white" alt="SEO Optimization" />
 
 </div>
 
