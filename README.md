@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=NEXUS%20RISEN&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Automation%20Expert%20%7C%20Open%20Source&descSize=18&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=NEXUS%20RISEN&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Retired%20Software%20Engineer%20%7C%20Legacy%20Preserved&descSize=18&descAlignY=60"/>
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Architecting+Scalable+Solutions;Expert+in+C%23,+TypeScript,+and+Python;Building+Next-Gen+Automation+Tools;Turning+Coffee+into+Code" alt="Typing SVG" /></a>
@@ -11,8 +11,8 @@
 <!-- Badges -->
 [![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=safari&logoColor=white)](https://nexusrisen.net)
 [![Ko-Fi](https://img.shields.io/badge/Support-Ko--Fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
-[![License](https://img.shields.io/badge/License-MIT-3DDC84?style=for-the-badge&logo=open-source-initiative&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Retired-764ba2?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+
 
 <br>
 
@@ -109,24 +109,20 @@
 
 <div align="center">
 
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=NexusRisen&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb" alt="NexusRisen's Stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusRisen&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NexusRisen&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak" />
+<img src="https://nexusrisen.net/stats/github-stats.svg" alt="GitHub Stats" height="180"/>
+<img src="https://nexusrisen.net/stats/languages.svg" alt="Top Languages" height="180"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=NexusRisen&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
+<img src="https://nexusrisen.net/stats/streak.svg" alt="GitHub Streak" width="700"/>
+
+<br><br>
+
+<img src="https://nexusrisen.net/stats/activity.svg" alt="Activity Graph" width="100%"/>
+
+<br><br>
+
+<img src="https://nexusrisen.net/stats/trophies.svg" alt="Trophies" width="100%"/>
 
 </div>
 
