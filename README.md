@@ -56,7 +56,7 @@
 
 <!-- Frameworks & Tools -->
 ### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,nextjs,discord,electron,tailwind,git,github,githubactions,docker,vscode,visualstudio,unity,unreal,mongodb,mysql,sqlite,redis,linux&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,nextjs,discord,electron,tailwind,git,github,githubactions,docker,vscode,visualstudio,unity,unreal,mongodb,mysql,sqlite,redis,linux,seo&perline=10&theme=dark" />
 
 </div>
 
@@ -140,7 +140,7 @@
 <!-- Footer -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NexusRisen&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=NexusRisen&color=667eea&style=for-the-badge&label=Profile+Views&base=100000" alt="Profile Views"/>
 
 <br><br>
 
