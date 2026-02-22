@@ -10,6 +10,7 @@
 
 <!-- Badges -->
 [![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=safari&logoColor=white)](https://nexusrisen.net)
+[![GenACNH](https://img.shields.io/badge/GenACNH-genacnh.com-667eea?style=for-the-badge&logo=safari&logoColor=white)](https://genacnh.com)
 [![Ko-Fi](https://img.shields.io/badge/Support-Ko--Fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=activity&logoColor=white)]()
 
@@ -64,22 +65,22 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏝️ GenACNH
+### 🏝️ [GenACNH](https://genacnh.com)
 *Next-Generation Animal Crossing Tools*
 
 > Innovative web features and automation for Animal Crossing: New Horizons.
 >
-> **Status:** `🚧 Coming Soon`
+> **Status:** `✅ Live`
 
 </td>
 <td width="50%" valign="top">
 
-### � Nexus Partnerships
+### 🤝 [Sysbots Network](https://sysbots.net)
 *Collaborative Ecosystem*
 
 > A network of elite developers and communities pushing the boundaries of what's possible in gaming automation.
 >
-> **Status:** `🚧 Coming Soon`
+> **Status:** `✅ Live`
 
 </td>
 </tr>
