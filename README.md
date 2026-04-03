@@ -78,19 +78,6 @@ Our current flagship project, **GenACNH**, represents the pinnacle of automated 
 
 ---
 
-## 📊 Performance Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NexusRisen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a14&title_color=667eea&text_color=ffffff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusRisen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a14&title_color=667eea&text_color=ffffff" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NexusRisen&theme=tokyonight&no-bg=true&margin-w=15&column=7&no-frame=true" />
-</div>
-
----
-
 ## 📥 Official Distribution
 
 | Software | Classification | Deployment |
