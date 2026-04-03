@@ -103,7 +103,7 @@ Our current flagship project, **GenACNH**, represents the pinnacle of automated 
 <div align="center">
 
 ### 🔗 Connect With Us
-[Website](https://nexusrisen.net) • [Discord](https://discord.gg/nexusrisen) • [Support the Mission](https://ko-fi.com/genacnh)
+[Website](https://nexusrisen.net) • [Discord](https://discord.gg/genacnh) • [Support the Mission](https://ko-fi.com/genacnh)
 
 <br>
 
