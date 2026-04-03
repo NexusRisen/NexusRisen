@@ -1,22 +1,22 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a14,50:0f0f1e,100:667eea&height=250&section=header&text=NEXUS%20RISEN&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Hosting%20Worlds%20•%20Coding%20Features%20•%20Modding%20Limits&descSize=18&descAlignY=60"/>
+<!-- Hero Section -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a14,50:0f0f1e,100:667eea&height=280&section=header&text=NEXUS%20RISEN&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Architecting%20Automated%20Ecosystems%20•%20High-Performance%20Hosting&descSize=20&descAlignY=60"/>
 
-<!-- Animated Typing -->
-<a href="https://nexusrisen.net"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Next-Gen+Automation;Animal+Crossing+Web+Features;High-Performance+FiveM+Hosting;I+Don't+Just+Play+--+I+Build+The+Environment" alt="Typing SVG" /></a>
-
-<br>
-
-<!-- Badges -->
-[![Website](https://img.shields.io/badge/Website-nexusrisen.net-667eea?style=for-the-badge&logo=safari&logoColor=white)](https://nexusrisen.net)
-[![GenACNH](https://img.shields.io/badge/GenACNH-genacnh.com-667eea?style=for-the-badge&logo=safari&logoColor=white)](https://genacnh.com)
-[![Ko-Fi](https://img.shields.io/badge/Support-Ko--Fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sysbots)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=activity&logoColor=white)]()
+<!-- Subtitle/Typing -->
+<a href="https://nexusrisen.net"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Enterprise-Grade+Automation;Scalable+Gaming+Infrastructure;Web-Driven+Game+Orchestration;Innovating+Beyond+the+Limits" alt="Typing SVG" /></a>
 
 <br>
 
-<!-- Snake Animation -->
+<!-- Key Action Badges -->
+[![Main Website](https://img.shields.io/badge/Official_Nexus-0a0a14?style=for-the-badge&logo=safari&logoColor=667eea)](https://nexusrisen.net)
+[![GenACNH](https://img.shields.io/badge/GenACNH_Platform-0a0a14?style=for-the-badge&logo=nintendo-switch&logoColor=e60012)](https://genacnh.com)
+[![Support](https://img.shields.io/badge/Infrastructure_Support-0a0a14?style=for-the-badge&logo=ko-fi&logoColor=ff5e5b)](https://ko-fi.com/genacnh)
+[![Status](https://img.shields.io/badge/Core_Systems-Active-success?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+
+<br>
+
+<!-- Visual Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NexusRisen/NexusRisen/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NexusRisen/NexusRisen/output/github-snake.svg" />
@@ -29,58 +29,34 @@
 
 ---
 
-<div align="center">
+## 🏛️ The Nexus Mission
 
-### 🚀 The Evolution
+**Nexus Risen** is a boutique development powerhouse dedicated to the engineering of high-performance automation and hosting infrastructure. We specialize in bridging the gap between intricate game mechanics and sophisticated web-driven interfaces. 
 
-</div>
-
-> *"The hiatus is over. I've returned with the official launch of **GenACNH**—a flagship suite of web-driven automation for **Animal Crossing: New Horizons**. 
->
-> My focus has shifted toward engineering high-performance hosting solutions for **FiveM**, **Pokémon**, and the broader gaming ecosystem. I don't just play in these worlds—**I architect the systems that power them.**"*
-
-<br>
+Our current flagship project, **GenACNH**, represents the pinnacle of automated island management, while our collaboration with **Sysbots Network** provides the backbone for enterprise-grade game server distribution. We don't just participate in digital ecosystems—we architect the systems that sustain them.
 
 ---
 
-## 🛠️ Tech Stack & Focus
+## 🚀 Core Ecosystem
 
-<div align="center">
-
-### Core Technologies
-<img src="https://skillicons.dev/icons?i=cs,ts,js,python,react,nextjs,tailwind,html,css&perline=10&theme=dark" />
-
-### Infrastructure & Tools
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,docker,linux,github,githubactions,vscode,visualstudio&perline=10&theme=dark" />
-
-</div>
-
-<br>
-
----
-
-## 🌟 Nexus Development & Partnerships
-
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td width="50%" valign="top">
 
-### 🏝️ [GenACNH](https://genacnh.com)
-*Premier Animal Crossing Automation*
-
-> A specialized web platform delivering advanced item generation, island management, and automated villager relocation tools.
->
-> **Status:** `✅ Live`
+### 🏝️ [GenACNH Platform](https://genacnh.com)
+*Premier Automation for ACNH*
+- **Scope:** Full-stack automation suite for item generation and villager management.
+- **Technology:** Real-time web-to-console synchronization.
+- **Status:** `PRODUCTION READY`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤝 [Sysbots Network](https://sysbots.net)
-*The Backbone of Gaming Infrastructure*
-
-> A high-performance distribution network connecting developers with enterprise-grade hosting for Discord bots, game servers, and automation hubs.
->
-> **Status:** `✅ Live`
+*Infrastructure & Distribution*
+- **Scope:** High-availability hosting for Discord automation and game server hubs.
+- **Target:** Pokémon, FiveM, and Custom Community Servers.
+- **Status:** `OPERATIONAL`
 
 </td>
 </tr>
@@ -88,25 +64,50 @@
 
 ---
 
-## 📥 Latest Downloads
+## 🛠️ Technical Competencies
 
 <div align="center">
 
-| Project | Description | Link |
-| :--- | :--- | :---: |
-| **PKHeXth** | The ultimate Pokémon save editor (PC). | [![Download](https://img.shields.io/badge/Download-PKHeX-blue?style=flat-square&logo=windows)](https://github.com/hexbyt3/PKHeXth/releases/latest/download/pkhex.exe) |
-| **PKHeX Mobile** | Save editing on the go (Android). | [![Download](https://img.shields.io/badge/Download-APK-green?style=flat-square&logo=android)](https://github.com/santacrab2/PKHeXMAUI/releases/latest/download/PKHeX.MAUI.apk) |
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend Architecture** | <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,docker,linux&theme=dark" /> |
+| **Frontend Engineering** | <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" /> |
+| **Development Ops** | <img src="https://skillicons.dev/icons?i=github,githubactions,vscode,visualstudio,mysql&theme=dark" /> |
 
 </div>
 
-<br>
+---
+
+## 📊 Performance Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NexusRisen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a14&title_color=667eea&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusRisen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a14&title_color=667eea&text_color=ffffff" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NexusRisen&theme=tokyonight&no-bg=true&margin-w=15&column=7&no-frame=true" />
+</div>
 
 ---
 
+## 📥 Official Distribution
+
+| Software | Classification | Deployment |
+| :--- | :--- | :---: |
+| **PKHeXth** | Advanced Save Manipulation (PC) | [![Download](https://img.shields.io/badge/Release-V--Stable-blue?style=flat-square)](https://github.com/hexbyt3/PKHeXth/releases/latest/download/pkhex.exe) |
+| **PKHeX Mobile** | Portable Save Management (Android) | [![Download](https://img.shields.io/badge/Release-APK-green?style=flat-square)](https://github.com/santacrab2/PKHeXMAUI/releases/latest/download/PKHeX.MAUI.apk) |
+
+<br>
+
 <div align="center">
 
-© 2025 Nexus Risen Developments
+### 🔗 Connect With Us
+[Website](https://nexusrisen.net) • [Discord](https://discord.gg/nexusrisen) • [Support the Mission](https://ko-fi.com/genacnh)
+
 <br>
-*Hosting Worlds • Coding Features • Modding Limits*
+
+**© 2026 Nexus Risen Developments**  
+*Engineering Excellence in Gaming Automation*
 
 </div>
